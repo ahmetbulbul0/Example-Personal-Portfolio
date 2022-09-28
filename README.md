@@ -1,3 +1,3 @@
-![personal_portfolio_1366x768_poster](./git-images/personal_portfolio_1366x768_poster.png)
+![example_personal_portfolio_1366x768_poster](./git-images/example_personal_portfolio_1366x768_poster.png)
 
-# Personal Portfolio
+# Example-Personal-Portfolio
