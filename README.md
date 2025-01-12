@@ -1,6 +1,4 @@
-# Minimal-Developer-Portfolio-Page-Ui
-
-Personal Portfolio Page
+# Personal-Portfolio-Page-Ui
 
 A clean and professional personal portfolio page built using HTML, CSS, and FontAwesome. This responsive design is perfect for showcasing your projects, skills, and contact information in a modern and visually appealing way.
 
