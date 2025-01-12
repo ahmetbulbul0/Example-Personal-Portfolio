@@ -1,17 +1,28 @@
-![example_personal_portfolio_1366x768_poster](./git-images/example_personal_portfolio_1366x768_poster.png)
+# Minimal-Developer-Portfolio-Page-Ui
 
-# Example-Personal-Portfolio
+Personal Portfolio Page
 
-**_Example Personal Portfolio_**
+A clean and professional personal portfolio page built using HTML, CSS, and FontAwesome. This responsive design is perfect for showcasing your projects, skills, and contact information in a modern and visually appealing way.
 
-## Technologies
+Key Features:
+- Responsive Design: Fully optimized for all devices, including desktops, tablets, and smartphones.
+- Project Showcase: Highlight your projects with dedicated sections for easy navigation.
+- Contact Section: Includes social media links and contact details to connect with potential clients or collaborators.
+- Modern Design: Combines simplicity and aesthetics for a sleek user experience.
+- FontAwesome Icons: Adds style and functionality with beautiful, scalable vector icons.
+This project is an ideal starting point for creating a personal online presence and portfolio for developers, designers, or freelancers.
 
--   **Html**
--   **Css**
+## Technologies (languages & frameworks)
 
-## Dependencies
+- Html
+- Css
 
--   **Font Awesome**
--   **Google Fonts(Poppins)**
+## Packages & Libraries
+
+- FontAwesome
+
+## Setup
+
+1. just open index.html file
 
 #### _Note:_ _I did this work to get the freeCodeCamp Responsive Web Design certificate._
